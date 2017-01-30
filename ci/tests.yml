@@ -6,4 +6,4 @@ image_resource:
   source: {repository: golang, tag: "1.7"}
 
 run:
-  path: test.sh 
+  path: ./github-metrics/ci/test.sh 
