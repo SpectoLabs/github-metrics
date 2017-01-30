@@ -9,4 +9,4 @@ inputs:
 - name: github-metrics
 
 run:
-  path: ./github-metrics/ci/test.sh 
+  path: ./github-metrics/ci/scripts/test.sh 
