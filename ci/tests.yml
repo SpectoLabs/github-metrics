@@ -6,4 +6,4 @@ image_resource:
   source: {repository: golang, tag: "1.7"}
 
 run:
-  path: ci/test.sh 
+  path: ./test.sh 
